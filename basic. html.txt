@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <h1 class="title">KISHAN KUMAR</h1>
+      <p id="currentTime"></p>
+      <script src="script.js"></script>
+      <h2>LINK</h2>
+<p>HTML links are defined with the a tag:</p>
+<a href="https://one.ibomma.games/telugu-movies/">CLICK THIS LINK</a>
+  </body>
+</html>
